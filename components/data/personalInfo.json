@@ -24,6 +24,7 @@
         "email": "tinghanf AT princeton.edu",
         "interest": "Natural Language Processing, Reinforcement Learning, Generative Models"
     },
+    "theme": "https://github.com/lydhr/NextJSAcademicTheme",
     "education": [
         {
             "name": "Princeton University(2018-2023, PhD Student in ECE)",

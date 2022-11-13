@@ -1,41 +1,37 @@
 {
-    "title": "Harry Potter",
-    "name": "Harry James Potter",
+    "title": "Ting-Han Fan",
+    "name": "Ting-Han Fan",
     "domain":"https://nextjs-academic-theme.vercel.app/",
-    "copyright":"harrypotter.me",
+    "copyright":"tinghanfan.me",
     "socialMedia": {
-        "Twitter": "https://twitter.com/",
-        "LinkedIn": "https://www.linkedin.com/",
-        "GoogleScholar": "https://scholar.google.com/"
+        "LinkedIn": "https://www.linkedin.com/in/ting-han-fan-70716a143/",
+        "GoogleScholar": "https://scholar.google.com/citations?user=1mQ3kTEAAAAJ&hl=en"
     },
     "about": {
-        "year": "7th-year",
+        "year": "5th-year",
         "department": {
-            "name": "Gryffindor",
-            "link": "https://harrypotter.fandom.com/wiki/Gryffindor"
+            "name": "Electrical and Computer Engineering Department",
+            "link": "https://ece.princeton.edu/"
         },
         "college": {
-            "name": "Hogwarts School of Witchcraft and Wizardry",
-            "link": "https://harrypotter.fandom.com/wiki/Hogwarts_School_of_Witchcraft_and_Wizardry"
+            "name": "Princeton University",
+            "link": "https://www.princeton.edu/"
         },
         "advisor": {
-            "name": "Albus Dumbledor",
-            "link": "https://harrypotter.fandom.com/wiki/Albus_Dumbledore"
+            "name": "Peter J. Ramadge",
+            "link": "https://ece.princeton.edu/people/peter-j-ramadge"
         },
-        "email": "harrypotter AT MyUniversity",
-        "interest": "Defense against Dark Arts Spell; Dark Creatures"
+        "email": "tinghanf AT princeton.edu",
+        "interest": "Natural Language Processing, Reinforcement Learning, Generative Models"
     },
-    "love": "https://harrypotter.fandom.com/wiki/James_and_Lily_Potter",
     "education": [
         {
-            "name": "The Auror Department(2007-2008, Visiting Scholar)",
-            "link": "https://harrypotter.fandom.com/wiki/British_Auror_Office"
+            "name": "Princeton University(2018-2023, PhD Student in ECE)",
+            "link": "https://ece.princeton.edu/"
         },
         {
-            "name": "Hogwarts Primary University(1911-1988, Bachelor's in Magic)",
-            "link": "https://harrypotter.fandom.com/wiki/Hogwarts_School_of_Witchcraft_and_Wizardry"
+            "name": "National Taiwan University(2013-2017, Bachelor in EE)",
+            "link": "https://web.ee.ntu.edu.tw/"
         }
     ]
-
-
 }

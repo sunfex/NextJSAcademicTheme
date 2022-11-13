@@ -1,106 +1,114 @@
 [
 	{
-		"id": 5,
-		"author": "P.Harry, A.Dumbledor",
-		"title": "Towards Generalized Defensing Against the Dark Arts Spells",
-		"conference": "In Proc of ACM Conference of Magic, Hogwarts Owlery, England.",
+		"id": 7,
+		"author": "Ta-Chung Chi*, Ting-Han Fan*, Peter J. Ramadge, Alexander I. Rudnicky",
+		"title": "KERPLE: Kernelized Relative Positional Embedding for Length Extrapolation",
+		"conference": "Advances in Neural Information Processing Systems 35 (NeurIPS 2022)",
 		"links": [
 			{
 				"name": "pdf",
-				"url": ""
+				"url": "https://arxiv.org/abs/2205.09921"
 			},
 			{
-				"name": "slides",
-				"url": ""
+				"name": "code",
+				"url": "https://github.com/chijames/KERPLE"
+			}
+		]
+	},
+
+	{
+		"id": 6,
+		"author": "Ting-Han Fan*, Ta-Chung Chi*, Alexander I. Rudnicky, Peter J. Ramadge",
+		"title": "Training Discrete Deep Generative Models via Gapped Straight-Through Estimator",
+		"conference": "The 39th International Conference on Machine Learning (ICML 2022)",
+		"links": [
+			{
+				"name": "pdf",
+				"url": "https://proceedings.mlr.press/v162/fan22a/fan22a.pdf"
 			},
 			{
-				"name": "video",
-				"url": ""
+				"name": "code",
+				"url": "https://github.com/chijames/GST"
+			},
+			{
+				"name": "SlidesLive",
+				"url": "https://slideslive.com/38984237"
+			}
+		]
+	},
+
+    {
+		"id": 5,
+		"author": "Ting-Han Fan, Xian Yeow Lee, Yubo Wang",
+		"title": "PowerGym: A Reinforcement Learning Environment for Volt-Var Control in Power Distribution Systems",
+		"conference": "The 4th Annual Learning for Dynamics and Control Conference (L4DC 2022)",
+		"links": [
+			{
+				"name": "pdf",
+				"url": "https://proceedings.mlr.press/v168/fan22a.html"
+			},
+			{
+				"name": "code",
+				"url": "https://github.com/siemens/powergym"
 			}
 		]
 	},
 
 	{
 		"id": 4,
-		"author": "P.Harry, A.Dumbledor",
-		"title": "Rethinking Defensing Against the Dark Arts Spells",
-		"conference": "In Proc of ACM Conference of Magic, Hogwarts Owlery, England.",
+		"author": "Ting-Han Fan, Yubo Wang",
+		"title": "Soft Actor-critic With Integer Actions",
+		"conference": "2022 American Control Conference (ACC)",
 		"links": [
 			{
 				"name": "pdf",
-				"url": ""
-			},
-			{
-				"name": "slides",
-				"url": ""
-			},
-			{
-				"name": "video",
-				"url": ""
+				"url": "https://ieeexplore.ieee.org/document/9867395"
 			}
 		]
 	},
 
+	
 	{
 		"id": 3,
-		"author": "P.Harry, A.Dumbledor",
-		"title": "Pushing the Limits of Defensing Against the Dark Arts Spells",
-		"conference": "In Proc of ACM Conference of Magic, Hogwarts Owlery, England.",
+		"author": "Ting-Han Fan, Peter J. Ramadge",
+		"title": "A Contraction Approach to Model-based Reinforcement Learning",
+		"conference": "The 24th International Conference on Artificial Intelligence and Statistics (AISTATS 2021)",
 		"links": [
 			{
 				"name": "pdf",
-				"url": ""
+				"url": "https://proceedings.mlr.press/v130/fan21a.html"
 			},
 			{
-				"name": "slides",
-				"url": ""
-			},
-			{
-				"name": "video",
-				"url": ""
+				"name": "SlidesLive",
+				"url": "https://slideslive.com/38952954"
 			}
 		]
 	},
-
-	{
+    
+    {
 		"id": 2,
-		"author": "P.Harry, A.Dumbledor",
-		"title": "Defensing Against the Dark Arts Spells based on Reductor Curse",
-		"conference": "In Proc of ACM Conference of Magic, Hogwarts Owlery, England.",
+		"author": "Yueh-Hua Wu*, Ting-Han Fan*, Peter J. Ramadge, Hao Su",
+		"title": "Model Imitation for Model-Based Reinforcement Learning",
+		"conference": "ICLR 2020 Submission (Scores: 6, 6, 6)",
 		"links": [
 			{
 				"name": "pdf",
-				"url": ""
-			},
-			{
-				"name": "slides",
-				"url": ""
-			},
-			{
-				"name": "video",
-				"url": ""
+				"url": "https://arxiv.org/abs/1909.11821"
 			}
 		]
 	},
 
-	{
+    {
 		"id": 1,
-		"author": "P.Harry, A.Dumbledor",
-		"title": "A Survey of Defensing Against the Dark Arts Spells",
-		"conference": "In Proc of ACM Conference of Magic, Hogwarts Owlery, England.",
+		"author": "Ting-Han Fan, I-Hsiang Wang",
+		"title": "Rumor Source Detection: A Probabilistic Perspective",
+		"conference": "2018 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)",
 		"links": [
 			{
 				"name": "pdf",
-				"url": ""
-			},
-			{
-				"name": "slides",
-				"url": ""
-			},
-			{
-				"name": "video",
-				"url": ""
+				"url": "https://ieeexplore.ieee.org/document/8461881"
 			}
 		]
 	}
 ]
+

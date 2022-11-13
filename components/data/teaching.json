@@ -1,11 +1,28 @@
 [
     {
-        "id": "MG101",
-        "name": "Introduction to magic"
+        "id": "ECE 435/535",
+        "name": "Machine Learning and Pattern Recognition",
+        "time": "Fall 2019, Fall 2020, Fall 2022"
     },
     {
-        "id": "MG102",
-        "name": "Defense against the dark arts spells"
+        "id": "EGR 154",
+        "name": "Foundations of Engineering: Linear Systems",
+        "time": "Spring 2022"
+    },
+    {
+        "id": "COS 302",
+        "name": "Mathematics for Numerical Computing and Machine Learning",
+        "time": "Fall 2021"
+    },
+    {
+        "id": "SML 310",
+        "name": "Research Projects in Data Science",
+        "time": "Spring 2021"
+    },
+    {
+        "id": "ECE 201",
+        "name": "Information Signals",
+        "time": "Spring 2020"
     }
 
 ]
